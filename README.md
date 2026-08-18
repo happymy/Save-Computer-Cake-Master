@@ -1,5 +1,11 @@
 <div align="center">
 
+![Version](https://img.shields.io/badge/Version-0.3-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-All-lightgrey.svg)
+![Stars](https://img.shields.io/github/stars/happymy/Save-Computer-Cake-Master?label=Stars&color=yellow)
+![Issues](https://img.shields.io/github/issues/happymy/Save-Computer-Cake-Master?label=Issues&color=red)
+
 # 🎂 拯救电脑糕手
 
 **不会用电脑也能安全解决问题的万能助手。**
@@ -7,10 +13,6 @@
 让任何 AI 学会用最简单、最安全的方式指导小白用户，杜绝危险操作（曾有用 WD40 喷带电设备差点出事的真实案例）。
 
 ![拯救电脑糕手](save-cake-master.jpg)
-
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Version](https://img.shields.io/badge/Version-0.1-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-All-lightgrey.svg)
 
 </div>
 
